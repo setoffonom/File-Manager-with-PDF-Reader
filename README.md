@@ -7,8 +7,30 @@ The collection of books is a file manager with folder structure containing pdf f
 
 ![](https://lh4.googleusercontent.com/-8lE3cJKx7JM/Uz68QDfzjKI/AAAAAAAAAA0/xSQQwvd5fOg/w321-h568-no/Library+Of+Books+with+PDF+Reader3.png)
 
+### How to put your pdf files?
 
+Open the project folder, right-click on the file Collection Of Books.bundle and choose from the context menu show content.
+![](https://lh5.googleusercontent.com/-voIVlMpZHXQ/Uz7KHZtvo_I/AAAAAAAAABQ/ilIcJ42tpWo/w768-h455-no/Library+Of+Books+with+PDF+Reader4.png)
 
+Now you need to create the struture of your library. Create a text document and save it on a blank on the desktop. Call it by its name that you want and rename the extension to .pdf. This is fake pdf that will open the pdf from main bundle.
+
+![] (https://lh5.googleusercontent.com/-cAdNrfLJM-U/Uz7NYXgObvI/AAAAAAAAABk/74mWGKRtc7U/w154-h118-no/Library+Of+Books+with+PDF+Reader5.png)
+
+Create a folder inside Collection Of Books.bundle and name it as you need it as well. Then put an empty file pdf inside the folder.
+
+![](https://lh5.googleusercontent.com/-Z6L-Vve0B2U/Uz7PIAxNyNI/AAAAAAAAAB8/52XhzVvJil8/w357-h388-no/Library+Of+Books+with+PDF+Reader6.png)
+
+Now you need to go to the project and create a new group called PDFs and put there a real pdf file.
+
+![](https://lh5.googleusercontent.com/-6N8Pi9F-cZY/Uz7SnjwqzwI/AAAAAAAAACs/MFVbL8kKvgY/w958-h603-no/Library+Of+Books+with+PDF+Reader8.png)
+
+Now you can run the application and open your pdf file.
+
+![](https://lh3.googleusercontent.com/-o0wkGirRjko/Uz7TpT4y-hI/AAAAAAAAADA/Vb36h4PDUgo/w617-h631-no/Library+Of+Books+with+PDF+Reader9.png)
+
+![](https://lh3.googleusercontent.com/-XD4V4_4Dxpk/Uz7T81hC7uI/AAAAAAAAADU/-MnencKfaPM/w835-h590-no/Library+Of+Books+with+PDF+Reader10.png)
+
+![](https://lh4.googleusercontent.com/-HstgQfhZy04/Uz7USottijI/AAAAAAAAADs/TfuOHiZvHQA/w881-h648-no/Library+Of+Books+with+PDF+Reader11.png)
 
 ## PDF Reader Core for iOS
 
