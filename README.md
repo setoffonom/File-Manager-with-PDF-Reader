@@ -1,4 +1,12 @@
 
+## Library Of Books with PDF Reader
+The collection of books is a file manager with folder structure containing pdf files. File Manager can not make changes to the folder structure, it serves only to navigate through folders and opening pdf files.
+
+
+
+
+
+
 ## PDF Reader Core for iOS
 
 ### Introduction
