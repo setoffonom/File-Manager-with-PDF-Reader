@@ -67,6 +67,10 @@
 		73D3BB7218EEDCA300CC2B12 /* Reader.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BB7118EEDCA300CC2B12 /* Reader.pdf */; };
 		73D3BB7518EEDCC000CC2B12 /* DLDirectoryTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BB7418EEDCC000CC2B12 /* DLDirectoryTableViewController.m */; };
 		73D3BB7718EEDE1F00CC2B12 /* Collection Of Books.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BB7618EEDE1F00CC2B12 /* Collection Of Books.bundle */; };
+		73D3BB7D18EEEAB600CC2B12 /* HTTP Live Streaming Overview.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BB7918EEEAB600CC2B12 /* HTTP Live Streaming Overview.pdf */; };
+		73D3BB7E18EEEAB600CC2B12 /* Objective-C Runtime Programming Guide.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BB7A18EEEAB600CC2B12 /* Objective-C Runtime Programming Guide.pdf */; };
+		73D3BB7F18EEEAB600CC2B12 /* PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BB7B18EEEAB600CC2B12 /* PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf */; };
+		73D3BB8018EEEAB600CC2B12 /* Reader.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BB7C18EEEAB600CC2B12 /* Reader.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -169,6 +173,10 @@
 		73D3BB7318EEDCC000CC2B12 /* DLDirectoryTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DLDirectoryTableViewController.h; sourceTree = "<group>"; };
 		73D3BB7418EEDCC000CC2B12 /* DLDirectoryTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLDirectoryTableViewController.m; sourceTree = "<group>"; };
 		73D3BB7618EEDE1F00CC2B12 /* Collection Of Books.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = "Collection Of Books.bundle"; sourceTree = "<group>"; };
+		73D3BB7918EEEAB600CC2B12 /* HTTP Live Streaming Overview.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "HTTP Live Streaming Overview.pdf"; sourceTree = "<group>"; };
+		73D3BB7A18EEEAB600CC2B12 /* Objective-C Runtime Programming Guide.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Objective-C Runtime Programming Guide.pdf"; sourceTree = "<group>"; };
+		73D3BB7B18EEEAB600CC2B12 /* PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf"; sourceTree = "<group>"; };
+		73D3BB7C18EEEAB600CC2B12 /* Reader.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Reader.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -198,6 +206,7 @@
 		73D3BABE18EEDB0E00CC2B12 = {
 			isa = PBXGroup;
 			children = (
+				73D3BB7818EEEAB600CC2B12 /* PDFs */,
 				73D3BB7618EEDE1F00CC2B12 /* Collection Of Books.bundle */,
 				73D3BB0218EEDC7C00CC2B12 /* PDF Reader */,
 				73D3BAD018EEDB0E00CC2B12 /* Library Of Books with PDF Reader */,
@@ -370,6 +379,17 @@
 			path = Sources;
 			sourceTree = "<group>";
 		};
+		73D3BB7818EEEAB600CC2B12 /* PDFs */ = {
+			isa = PBXGroup;
+			children = (
+				73D3BB7918EEEAB600CC2B12 /* HTTP Live Streaming Overview.pdf */,
+				73D3BB7A18EEEAB600CC2B12 /* Objective-C Runtime Programming Guide.pdf */,
+				73D3BB7B18EEEAB600CC2B12 /* PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf */,
+				73D3BB7C18EEEAB600CC2B12 /* Reader.pdf */,
+			);
+			path = PDFs;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -449,8 +469,11 @@
 			files = (
 				73D3BB5118EEDC9300CC2B12 /* Reader-Email@2x.png in Resources */,
 				73D3BAE118EEDB0E00CC2B12 /* Main_iPad.storyboard in Resources */,
+				73D3BB7D18EEEAB600CC2B12 /* HTTP Live Streaming Overview.pdf in Resources */,
+				73D3BB8018EEEAB600CC2B12 /* Reader.pdf in Resources */,
 				73D3BB5518EEDC9300CC2B12 /* Reader-Mark-Y@2x.png in Resources */,
 				73D3BB4A18EEDC9300CC2B12 /* back.png in Resources */,
+				73D3BB7E18EEEAB600CC2B12 /* Objective-C Runtime Programming Guide.pdf in Resources */,
 				73D3BB4F18EEDC9300CC2B12 /* Reader-Button-N1@2x.png in Resources */,
 				73D3BAE618EEDB0E00CC2B12 /* Images.xcassets in Resources */,
 				73D3BADE18EEDB0E00CC2B12 /* Main_iPhone.storyboard in Resources */,
@@ -458,6 +481,7 @@
 				73D3BB7718EEDE1F00CC2B12 /* Collection Of Books.bundle in Resources */,
 				73D3BB7018EEDC9300CC2B12 /* README.md in Resources */,
 				73D3BB4E18EEDC9300CC2B12 /* Reader-Button-N1.png in Resources */,
+				73D3BB7F18EEEAB600CC2B12 /* PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf in Resources */,
 				73D3BB4D18EEDC9300CC2B12 /* Reader-Button-H@2x.png in Resources */,
 				73D3BB6F18EEDC9300CC2B12 /* LICENSE.md in Resources */,
 				73D3BAD518EEDB0E00CC2B12 /* InfoPlist.strings in Resources */,

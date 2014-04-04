@@ -20,7 +20,7 @@
                                 <rect key="frame" x="276" y="497" width="217" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="TrebuchetMS" family="Trebuchet MS" pointSize="15"/>
-                                <state key="normal" title="Welcom To Collection Of Books">
+                                <state key="normal" title="Welcome To Collection Of Books">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
