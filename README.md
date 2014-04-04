@@ -1,5 +1,5 @@
-## Library Of Books with PDF Reader
-The collection of books is a file manager with folder structure containing pdf files. File Manager can not make changes to the folder structure, it serves only to navigate through folders and opening pdf files.
+## File Manager with PDF Reader
+File Manager with PDF Reader is a file manager with folder structure containing pdf files. File Manager can not make changes to the folder structure, it serves only to navigate through folders and opening pdf files.
 
 ![](https://lh4.googleusercontent.com/-sfAn0UvKwOI/Uz68QBj2haI/AAAAAAAAAAs/Zk2qGkkpBCU/w321-h570-no/Library+Of+Books+with+PDF+Reader1.png)
 
